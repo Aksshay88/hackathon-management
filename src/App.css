@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  padding: 50px;
+}
+
+h2 {
+  margin-bottom: 30px;
+  color: #007bff; /* Super blue color */
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+form {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+input {
+  margin-right: 15px;
+}
+
+button {
+  margin-right: 10px;
+  background-color: #007bff; /* Super blue color */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3; /* Darker shade of blue on hover */
+}
